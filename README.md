@@ -10,3 +10,4 @@ We tested differents models to improve our accuracy :
 - In the 05/ directory we use Transformers to translate sentences
 - In the 06/ directory we have use finetunning for classificaiton
 - In the 07/ directory we have done a semantic search with/without neighbors
+- In the 08/ directory was a recap of all the precedant lab we have done
